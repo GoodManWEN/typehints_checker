@@ -1,3 +1,11 @@
+:orphan:
+
+.. _license:
+
+*******
+License
+*******
+
 MIT License
 
 Copyright (c) 2020 GoodManWEN
