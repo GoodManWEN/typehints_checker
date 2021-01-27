@@ -6,13 +6,6 @@
 [![Build](https://github.com/GoodManWEN/typehints_checker/workflows/Build/badge.svg)](https://github.com/GoodManWEN/typehints_checker/actions?query=workflow:Build)
 [![Docs](https://readthedocs.org/projects/typehints_checker/badge/?version=latest)](https://readthedocs.org/projects/typehints_checker/)
 
-```
-使用方法：
-1、创建新项目
-2、将本项目中除.git外所有文件迁移过去并覆盖
-3、运行初始化脚本
-over
-```
 Some description.
 
 ## Requirements
